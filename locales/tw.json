@@ -167,7 +167,7 @@
   "Amount":"數量",
   "Receive":"接收",
   "Price":"價格",
-  "Remove":"刪除",
+  "Remove":"移出",
   "Confirm":"確認",
   "+ Add a send (optional)": "+ 添加发送（可选）",
   "- Remove send": "- 删除发送",
@@ -239,5 +239,8 @@
   "Trade at your own risk!": "交易風險自負！",
   "Anyone can create a token, including creating fake versions of existing tokens that claim to represent projects.": "任何人都可以創建令牌，包括創建補充代表項目的現有令牌的偽造版本。",
   "If you purchase this token, you may not be able to sell it back.": "如果您購買了此令牌，則可能無法將其出售。",
-  "I understand": "我明白"
+  "I understand": "我明白",
+  "Pool": "礦池",
+  "Apply to upload token": "申請上幣",
+  "Burned": "燒毀"
 }

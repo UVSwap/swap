@@ -239,5 +239,8 @@
   "Trade at your own risk!": "Trade at your own risk!",
   "Anyone can create a token, including creating fake versions of existing tokens that claim to represent projects.": "Anyone can create a token, including creating fake versions of existing tokens that claim to represent projects.",
   "If you purchase this token, you may not be able to sell it back.": "If you purchase this token, you may not be able to sell it back.",
-  "I understand": "I understand"
+  "I understand": "I understand",
+  "Pool": "Pool",
+  "Apply to upload token": "Apply to upload token",
+  "Burned": "Burned"
 }
